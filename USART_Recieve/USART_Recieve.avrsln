@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "USART_Recieve", "USART_Recieve\USART_Recieve.avrgccproj", "{9D363118-AD80-4710-8C3A-D3BAB956F14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D363118-AD80-4710-8C3A-D3BAB956F14D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9D363118-AD80-4710-8C3A-D3BAB956F14D}.Debug|AVR.Build.0 = Debug|AVR
+		{9D363118-AD80-4710-8C3A-D3BAB956F14D}.Release|AVR.ActiveCfg = Release|AVR
+		{9D363118-AD80-4710-8C3A-D3BAB956F14D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

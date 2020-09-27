@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "Sand_Clock", "Sand_Clock\Sand_Clock.avrgccproj", "{8281B7CA-513D-4F80-95A2-74E6258E0FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8281B7CA-513D-4F80-95A2-74E6258E0FA9}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8281B7CA-513D-4F80-95A2-74E6258E0FA9}.Debug|AVR.Build.0 = Debug|AVR
+		{8281B7CA-513D-4F80-95A2-74E6258E0FA9}.Release|AVR.ActiveCfg = Release|AVR
+		{8281B7CA-513D-4F80-95A2-74E6258E0FA9}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

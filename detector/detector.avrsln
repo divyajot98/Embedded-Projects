@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "detector", "detector\detector.avrgccproj", "{785A5F7A-FCB0-450C-BA8F-0963F5B6B412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{785A5F7A-FCB0-450C-BA8F-0963F5B6B412}.Debug|AVR.ActiveCfg = Debug|AVR
+		{785A5F7A-FCB0-450C-BA8F-0963F5B6B412}.Debug|AVR.Build.0 = Debug|AVR
+		{785A5F7A-FCB0-450C-BA8F-0963F5B6B412}.Release|AVR.ActiveCfg = Release|AVR
+		{785A5F7A-FCB0-450C-BA8F-0963F5B6B412}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
